@@ -43,10 +43,10 @@ if (game.ask("do you want to be Adam?")) {
         . . . c c c c c c c c c c . . . 
         . . c c c c c c c c c c c c . . 
         . . c c c c c c c c c c c c . . 
-        . c c c c c c 4 4 c c c c c c . 
-        c c f f c c 4 4 4 4 c c f f c c 
-        c c f f f b f 4 4 f b f f f c c 
-        c c f f 4 1 f d d f 1 4 f f c c 
+        . f f c c c c 4 4 c c c c f f . 
+        . f f c c c 4 4 4 4 c c c f f . 
+        c c c c f b f 4 4 f b f c c c c 
+        c c c f 4 1 f d d f 1 4 f c c c 
         c c . f f d d d d d d f f . c c 
         c . . e f e 4 4 4 4 e f e . . c 
         c . e 4 f b 3 3 3 3 b f 4 e . c 
